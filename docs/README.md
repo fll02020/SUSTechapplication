@@ -17,6 +17,7 @@
 
 ## 近期更新
 
+- [2023-04-20\] \[申请总结] [19级-计算机科学与技术-范磊龙 MSCS @ UCSD](grad-application/computer-science-and-engineering/[US]-19-fanleilong.md)
 - [2023-04-19\] \[申请总结] [19级-电子与电气工程-张策 MS @ CMU](grad-application/electronic-and-electrical-engineering/communication-engineering/[US]-19-zhangce.md)
 - [2023-02-19\] \[申请总结\] [19级-微电子-黄冠超 MS CSE @ ND](grad-application/microelectronics/[US]-19-huangguanchao.md)
 - [2023-2-15] [保研总结] [19级-物理-石晶晶 直博 @ 北京大学](grad-application/physics/physics/[CN]-19-shijingjing.md)
